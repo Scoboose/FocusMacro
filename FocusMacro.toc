@@ -1,0 +1,7 @@
+## Interface: 20500
+## Title: FocusMacro
+## Notes: One button focus macro for Raman
+## Author: Pokey
+## Version: 0.0.1
+
+FocusMacro.lua
